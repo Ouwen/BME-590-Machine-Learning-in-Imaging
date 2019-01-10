@@ -26,7 +26,8 @@ python3 -m pip install jupyter
 ### If you have any issues, we will find time to debug during our zeroth TA session Monday or Wednesday (depending on your section) 
 ---------------------
 
-## After the zeroth TA session, you should do the following (feel free to try on your own if you are comfortable!):
+## After the zeroth TA session, you should do the following:
+### Feel free to try on your own before the TA session if you are comfortable!
  - Fork this repo to your github account and make it private.
  - Introduce yourself by writing in the `homework_0.ipyn` file, and `git commit` and `git push` to your repo
  - Spin up a small google cloud platform instance with a publically accessible IP address.
