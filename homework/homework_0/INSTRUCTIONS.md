@@ -23,8 +23,10 @@ python3 -m pip install jupyter
 
 6. Take this survey: [Homework 0: Survey](https://goo.gl/forms/hV8rUMVzjIxEX3S73)
 
+### If you have any issues, we will find time to debug during our zeroth TA session Monday or Wednesday (depending on your section) 
+---------------------
 
-7. This step should be submitted after our first TA session on Monday or Wednesday.
+## After the zeroth TA session, you should do the following:
  - Fork this repo to your github account and make it private.
  - Introduce yourself by writing in the `homework_0.ipyn` file, and `git commit` and `git push` to your repo
  - Spin up a small google cloud platform instance with a publically accessible IP address.
