@@ -57,7 +57,7 @@ Video Instructions here: [SSH to your server and start jupyter](https://youtu.be
 screen -r notebook_server
 ```
 
-### 8. If you stop your instance, your programs will also stop. So to restart the server you need to run step 7 again. When your server is running, you can access the notebook from anywhere, another computer, a chromebook, ipad, or even your phone.
+### 8. If you stop your instance, your programs will also stop. So to restart the server you need to run step 7 again starting from `screen`. When your server is running, you can access the notebook from anywhere, another computer, a chromebook, ipad, or even your phone.
 
 ___________
 ## Important, if you leave your server running it will cost money. The server we spun up is not very expensive, but with GPUs the cost can be up to \$300 a month.
