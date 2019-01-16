@@ -23,6 +23,7 @@ Do not choose an organization. Hit create, and google will take a few seconds to
  - 6006 for tensorboard (later)
  - 3000 for general web apps
  - 9000 for general web apps
+ 
 Video here: [Firewall settings](https://youtu.be/Fv7TdXEud9E)
 
 ### 5. Create a VM based on an existing image from Google. For now, you do not need an expensive GPU, just go with the lowest settings. In the future you can create a machine with a GPU on your own.
