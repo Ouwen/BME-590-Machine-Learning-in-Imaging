@@ -2,7 +2,7 @@
 
 #### Video Instructions: [Private Public Github Repo Setup](https://youtu.be/kOZxQyfllYY)
 
-1. Create a completely empty private repo. This should be free, but please tell us if it is not. [Add us as collaborators by going into settings -> collaborators](https://stackoverflow.com/questions/7920320/adding-a-collaborator-to-my-free-github-account). Our github tags are: @ouwen @kevinczhou @roarke
+1. Create a completely empty private repo. This should be free, but please tell us if it is not. [Add us as collaborators by going into settings -> collaborators](https://stackoverflow.com/questions/7920320/adding-a-collaborator-to-my-free-github-account). Our github tags are: @ouwen @kevinczhou @roarke, @mariachacko, @a-poorva
 
 
 2. Clone the class repo. (If you already cloned skip this step). This repo is refered to as the `origin` and we start on the `master` branch.
