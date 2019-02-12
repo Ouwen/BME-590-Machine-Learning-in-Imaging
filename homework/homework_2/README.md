@@ -1,6 +1,6 @@
 # Homework 1
 
-### Due Date: Feburary 14th, 2019; 11:45am
+### Due Date: Feburary 19th, 2019; 11:45am
 
 1. The coding assignment should be completed in the `Homework 2 Release.ipynb` file provided.
 
